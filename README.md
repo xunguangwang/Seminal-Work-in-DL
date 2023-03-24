@@ -6,5 +6,5 @@
 ## Transformer
 * [Attention is All you Need](https://proceedings.neurips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) (NIPS 2017) <br/>xx
 
-# Neural Rendering Field (NeRF)
+## Neural Rendering Field (NeRF)
 * [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_24) (ECCV 2020) <br/>xx
