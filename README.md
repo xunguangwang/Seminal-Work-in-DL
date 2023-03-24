@@ -6,5 +6,11 @@
 ## Transformer
 * [Attention is All you Need](https://proceedings.neurips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) (NIPS 2017) <br/>xx
 
-## Neural Rendering Field (NeRF)
+## Generative Adversarial Network
+* [Generative Adversarial Nets](https://papers.nips.cc/paper_files/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html) (NIPS 2014) <br/>xx
+
+## Diffusion Model
+* [Denoising Diffusion Probabilistic Models](https://proceedings.neurips.cc/paper/2020/hash/4c5bcfec8584af0d967f1ab10179ca4b-Abstract.html) (NeurIPS 2020) <br/>xx
+
+## Neural radiance Field (NeRF)
 * [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_24) (ECCV 2020) <br/>xx
