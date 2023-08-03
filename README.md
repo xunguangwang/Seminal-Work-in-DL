@@ -4,7 +4,7 @@
 * [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/html/He_Deep_Residual_Learning_CVPR_2016_paper.html) (CVPR 2016) <br/> xxx.
 
 ## Transformer
-* [Attention is All you Need](https://proceedings.neurips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) (NIPS 2017) <br/>xx
+* [Attention is All you Need](https://proceedings.neurips.cc/paper_files/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html) (NIPS 2017) <br/>The authors propose a new simple network architecture, the Transformer, which dispenses with recurrence and convolutions entirely.
 
 ## Generative Adversarial Network
 * [Generative Adversarial Nets](https://papers.nips.cc/paper_files/paper/2014/hash/5ca3e9b122f61f8f06494c97b1afccf3-Abstract.html) (NIPS 2014) <br/>xx
