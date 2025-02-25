@@ -14,3 +14,6 @@
 
 ## Neural radiance Field (NeRF)
 * [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://link.springer.com/chapter/10.1007/978-3-030-58452-8_24) (ECCV 2020) <br/>xx
+
+## Large Language Model (LLM)
+* [DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning](https://arxiv.org/abs/2501.12948) (arXiv 2025) <br/>The authors introduce their first-generation reasoning models, DeepSeek-R1-Zero and DeepSeek-R1.
